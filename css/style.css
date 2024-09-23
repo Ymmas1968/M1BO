@@ -1,0 +1,69 @@
+body{
+    width: 400px;
+    margin: auto;
+}
+
+img{
+
+    height: 200px;
+    width: 200px;
+    transition: transform 0.3s;
+    margin-bottom: 200px;
+    
+
+}
+#Mijnfoto{
+    border-radius: 50%;
+    margin-top: 50px;
+
+}
+img:hover{
+
+    transform: scale(1.1);
+}
+
+h2{
+
+   margin-right: 200px;
+
+}
+
+td{
+
+    margin-left: 900px;
+    width: 50%;
+}
+
+h2{
+
+    margin-top: 0.5%;
+}
+
+#Woonplaats{
+
+margin-top: 30%   ;
+    
+}
+
+
+
+#InMijnVrijeTijd{
+
+margin-bottom: 10%;
+
+}
+
+p{
+
+    margin-bottom: 50px;
+}
+
+#Haarlemfoto{
+
+    margin-bottom: auto;
+}
+
+#Mijnfoto{
+
+    margin-bottom:auto ;
+}
